@@ -6,5 +6,5 @@
  * Time: 4:52 PM
  * To change this template use File | Settings | File Templates.
  */
-print "whatever";
+print "whateverWHATEVER";
 ?>
